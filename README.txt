@@ -30,7 +30,7 @@ When I tested this application myself, I uploaded a file in the same folder name
 Thus, a sample input that I tested myself is...
 > ./client 127.0.0.1 ~/CS371/Project/hello.txt
 
-Cited sources:
+References:
 Christian Tooley's socket tutorial video on YouTube
 http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
 https://www.geeksforgeeks.org/socket-programming-cc/
